@@ -3,7 +3,7 @@ A simple script to automate the strenous task of clicking the objects in picture
 
 How to use it :-
 https://youtu.be/03UC41QrMsw
-
+{% include youtube.html id=”JLMbpiywVxQ” %}
 
 ### The Script prints the coordinates it clicked which can be viewed once the script ends as it runs in background.
 ![Screenshot (762)](https://github.com/JoydeepMallick/Google-Playground-Solver-2023/assets/94801952/47f85b03-05d8-49a0-a3cb-d54f041b22cb)
